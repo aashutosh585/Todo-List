@@ -1,0 +1,6 @@
+npm create vite@latest . -- --template react
+npm install
+npm run dev  
+
+
+Core Concepts: Components, Props, State, Events, Routing, Context, Hooks, Testing, and more.
