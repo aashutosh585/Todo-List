@@ -10,24 +10,6 @@ A beautiful, feature-rich todo list application built with React and Vite. Stay 
 ## 🔗 Links & Demo
 
 - **🌐 Live Demo:** [View Application](https://todo-list-585.vercel.app/) 
-- **📱 Mobile Demo:** [Mobile View](https://todo-list-585.vercel.app/) 
-- **📖 Documentation:** [Full Docs](#) <!-- Add documentation link -->
-- **🎥 Video Demo:** [YouTube Demo](#) <!-- Add video demo link -->
-
-## 👨‍💻 About the Developer
-
-**Ashutosh Maurya** - Full Stack Developer
-
-- 🌐 **Portfolio:** [ashutoshmaurya.dev](#) <!-- Add your portfolio -->
-- 💼 **LinkedIn:** [linkedin.com/in/ashutosh-maurya](#) <!-- Add your LinkedIn -->
-- 🐦 **Twitter:** [@ashutosh585](#) <!-- Add your Twitter -->
-- 📧 **Email:** [contact@ashutoshmaurya.dev](#) <!-- Add your email -->
-- 💻 **GitHub:** [@aashutosh585](https://github.com/aashutosh585)
-
-### 🚀 More Projects
-- [Project 1](#) - Description
-- [Project 2](#) - Description
-- [View All Projects](https://github.com/aashutosh585?tab=repositories)
 
 ## ✨ Features
 
