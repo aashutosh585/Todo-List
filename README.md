@@ -1,6 +1,33 @@
-# 📝 Modern Todo List App
+# 📝 Modern Todo List App - Black Theme Edition
 
-A beautiful, feature-rich todo list application built with React and Vite. Stay organized and boost your productivity with this intuitive task management tool.
+[![React](https://img.shields.io/badge/React-19-blue.svg)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-7.0.4-green.svg)](https://vitejs.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Demo](https://img.shields.io/badge/Demo-Live-success.svg)](https://todo-list-585.vercel.app/)
+
+A beautiful, feature-rich todo list application built with React and Vite. Stay organized and boost your productivity with this intuitive task management tool featuring a sophisticated black theme design.
+
+## 🔗 Links & Demo
+
+- **🌐 Live Demo:** [View Application](https://todo-list-585.vercel.app/) 
+- **📱 Mobile Demo:** [Mobile View](https://todo-list-585.vercel.app/) 
+- **📖 Documentation:** [Full Docs](#) <!-- Add documentation link -->
+- **🎥 Video Demo:** [YouTube Demo](#) <!-- Add video demo link -->
+
+## 👨‍💻 About the Developer
+
+**Ashutosh Maurya** - Full Stack Developer
+
+- 🌐 **Portfolio:** [ashutoshmaurya.dev](#) <!-- Add your portfolio -->
+- 💼 **LinkedIn:** [linkedin.com/in/ashutosh-maurya](#) <!-- Add your LinkedIn -->
+- 🐦 **Twitter:** [@ashutosh585](#) <!-- Add your Twitter -->
+- 📧 **Email:** [contact@ashutoshmaurya.dev](#) <!-- Add your email -->
+- 💻 **GitHub:** [@aashutosh585](https://github.com/aashutosh585)
+
+### 🚀 More Projects
+- [Project 1](#) - Description
+- [Project 2](#) - Description
+- [View All Projects](https://github.com/aashutosh585?tab=repositories)
 
 ## ✨ Features
 
@@ -115,6 +142,43 @@ Your todos are automatically saved to your browser's local storage, so you won't
 4. **Bulk Operations**: Use "Complete All" or "Clear Completed" for efficient task management
 5. **Filter Focus**: Use filters to focus on specific task types
 
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🙏 Acknowledgments
+
+- [React](https://reactjs.org/) - The web framework used
+- [Vite](https://vitejs.dev/) - Build tool and development server
+- [CSS Gradient](https://cssgradient.io/) - For gradient inspirations
+
+## 📊 Project Stats
+
+![GitHub stars](https://img.shields.io/github/stars/aashutosh585/Todo-List?style=social)
+![GitHub forks](https://img.shields.io/github/forks/aashutosh585/Todo-List?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/aashutosh585/Todo-List?style=social)
+![GitHub issues](https://img.shields.io/github/issues/aashutosh585/Todo-List)
+
+## 🌟 Support
+
+If you like this project, please consider:
+- ⭐ Starring the repository
+- 🐛 Reporting bugs
+- 💡 Suggesting new features
+- 🤝 Contributing to the code
+
 ---
 
-Made with ❤️ using React and Vite
+**Made with ❤️ by [Ashutosh Maurya](https://github.com/aashutosh585)**
+
+*Connect with me and check out my other projects!*
